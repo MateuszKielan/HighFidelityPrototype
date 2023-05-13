@@ -1,3 +1,6 @@
+Group 15.
+Students. Mateusz Kielan , Jan Burakowski, Szymon Czternasty, Michał Gis
+
 This is a High fidelity prototype for human computer interaction course.
 The prototype is done using HTML and CSS.
 
